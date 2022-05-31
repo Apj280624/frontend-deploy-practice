@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/frontend-deploy-practice/static/js/main.e2cdf86b.js",
+    "index.html": "/frontend-deploy-practice/index.html",
+    "main.e2cdf86b.js.map": "/frontend-deploy-practice/static/js/main.e2cdf86b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e2cdf86b.js"
+  ]
+}
